@@ -17,7 +17,7 @@ ShortDescription: A keystroke overlay that shows the keys and shortcuts you pres
 Description: |-
   Carnac shows the keys and shortcuts you press as an on-screen overlay, so the people watching your talk, demo or screencast can follow along.
   It labels shortcuts from bundled keymaps for Visual Studio, VS Code, ReSharper, Chrome, Kdenlive and NCrunch, supports your own YAML keymaps, and can be placed in any corner of any monitor.
-  This is the doggy8088 fork of Code52's Carnac. It installs per user and doesn't need administrator rights.
+  This is a community-maintained fork of Code52's Carnac. It installs per user and doesn't need administrator rights.
 Tags:
 - keyboard
 - keystroke
